@@ -1,5 +1,5 @@
 # electric-field-generator
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 This is a python program that draws electric field lines given charges on a graph
 
 It uses the matplotlib.pyplot library, specifically the streamplot to draw electric field lines between a user specified number of charges.
