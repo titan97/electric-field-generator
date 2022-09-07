@@ -17,5 +17,6 @@ y position: 0
 charge: 1
 ```
 
-example with positive charge centered at (0, 1)
 ![example with positive charge centered at (0, 1)](https://github.com/titan97/electric-field-generator/blob/main/single_charge.png)
+
+example with positive charge centered at (0, 1)
